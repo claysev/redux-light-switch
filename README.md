@@ -10,8 +10,3 @@ Este é um projeto simples que apresenta um botão centralizado que alterna entr
 - **[Redux](https://redux.js.org/)**: Uma biblioteca de gerenciamento de estado para aplicativos JavaScript.
 - **[Tailwind CSS](https://tailwindcss.com/)**: Um framework CSS utilitário para criação de interfaces web.
 - **[DaisyUI](https://daisyui.com/)**: Um conjunto de componentes UI para Tailwind CSS que facilita o desenvolvimento de interfaces.
-
-
-### Licença
-
-Este projeto está licenciado sob a **[MIT License](https://opensource.org/licenses/MIT)**.
